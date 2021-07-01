@@ -1,0 +1,20 @@
+fileExtensionPreference:
+    .tex: 1
+    .sty: 2
+    .cls: 3
+    .bib: 4
+logFilePreferences:
+    showEveryYamlRead: 1
+    showAmalgamatedSettings: 0
+    showDecorationStartCodeBlockTrace: 0
+    showDecorationFinishCodeBlockTrace: 0
+    endLogFileWith: '--------------' 
+    showGitHubInfoFooter: 1
+    Dumper:
+      Terse: 1
+      Indent: 1
+      Useqq: 1
+      Deparse: 1
+      Quotekeys: 0
+      Sortkeys: 1
+      Pair: " => "
